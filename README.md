@@ -13,9 +13,9 @@ Backend & AI developer.
 🛠️ Stack
 
 Languages: Python, C#, Java, SQL
-AI: LangGraph, Semantic Kernel, Pydantic, MCP, PyTorch, SBERT, Qdrant
-Backend & data: .NET, Hibernate, Streamlit, SQL Server, Kafka, Elasticsearch
-Infra & IoT: Docker, ThingsBoard, OpenRemote
+- AI: LangGraph, Semantic Kernel, Pydantic, MCP, PyTorch, SBERT, Qdrant
+- Backend & data: .NET, Hibernate, Streamlit, SQL Server, Kafka, Elasticsearch
+- Infra & IoT: Docker, ThingsBoard, OpenRemote
 
 
 
