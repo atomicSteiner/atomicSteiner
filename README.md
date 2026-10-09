@@ -4,7 +4,7 @@ Backend & AI developer.
 
 🎓 MSc in Computer Science, double degree University of Camerino 🇮🇹 / Reykjavik University 🇮🇸
 
-📝 Thesis: IoT Agentic Deployer, a multi-agent LLM system that turns a natural-language description of a building into a platform-agnostic model, validates it and deploys it on ThingsBoard or OpenRemote
+📝 Master Thesis: IoT Agentic Deployer, a multi-agent LLM system that turns a natural-language description of a building into a platform-agnostic model, validates it and deploys it on ThingsBoard or OpenRemote
 
 💼 Internship at Apra S.p.A. (Var Group): LLM services in C#/.NET 8 (RAG, agents, vector search), deployed as Docker microservices
 
